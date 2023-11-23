@@ -1,0 +1,7 @@
+base_url: 'https://tapsshop.pl/'
+wait: 8
+
+headless: false
+fullscreen: true
+
+rerun: 2
